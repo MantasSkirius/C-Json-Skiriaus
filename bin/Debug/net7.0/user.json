@@ -5,16 +5,8 @@
     "City": "New York"
   },
   {
-<<<<<<< HEAD
     "Name": "Jane Doe",
     "Age": 14,
     "City": "Oklahoma"
   }
 ]
-=======
-     "Name": "Jane Doe",
-     "Age": 14,
-     "City": "Oklahoma"
-  }
-]
->>>>>>> c5fb32b788915358898824ef4cc75d52eadedb68

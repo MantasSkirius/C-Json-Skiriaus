@@ -1,0 +1,21 @@
+[
+  {
+    "Name": "John Doe",
+    "Age": 30,
+    "City": "New York",
+    "Role": "Admin",
+    "Speciality": "Networks"
+  },
+  {
+    "Name": "Jane Doe",
+    "Age": 14,
+    "City": "Oklahoma",
+    "Role": "PremiumUser",
+    "Balance": 300
+  },
+  {
+    "Name": "Janet Dot",
+    "Age": 75,
+    "City": "Michigan",
+  }
+]
