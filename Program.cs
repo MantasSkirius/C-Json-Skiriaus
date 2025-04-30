@@ -17,10 +17,10 @@ class Program
 
         string jsonResponse = File.ReadAllText(filePath);
 
-        User user = JsonConvert.DeserializeObject<User>(jsonResponse);
+        //User user = JsonConvert.DeserializeObject<User>(jsonResponse);
 
-        Console.WriteLine($"Name: {user.Name}");
-        Console.WriteLine($"Age: {user.Age}");
-        Console.WriteLine($"City: {user.City}");
+       // Console.WriteLine($"Name: {user.Name}");
+       // Console.WriteLine($"Age: {user.Age}");
+       // Console.WriteLine($"City: {user.City}");
     }
 }
