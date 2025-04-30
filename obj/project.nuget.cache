@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uH5H5ZIwpYIakX7nOLgaJtNFu+cdbNDMsdqYJWMHhAs6E1U6cvU8bIgg9xSbejfxtqg/kLqg6BEoIdAnjl+UHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\niuks\\OneDrive\\Documents\\Programavimas\\C# Json Skiraus\\C# Json Skiraus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\niuks\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\niuks\OneDrive\Documents\Programavimas\C# Json Skiraus\bin\Debug\net7.0\C# Json Skiraus.exe
+C:\Users\niuks\OneDrive\Documents\Programavimas\C# Json Skiraus\bin\Debug\net7.0\C# Json Skiraus.deps.json
+C:\Users\niuks\OneDrive\Documents\Programavimas\C# Json Skiraus\bin\Debug\net7.0\C# Json Skiraus.runtimeconfig.json
+C:\Users\niuks\OneDrive\Documents\Programavimas\C# Json Skiraus\bin\Debug\net7.0\C# Json Skiraus.dll
+C:\Users\niuks\OneDrive\Documents\Programavimas\C# Json Skiraus\bin\Debug\net7.0\C# Json Skiraus.pdb
+C:\Users\niuks\OneDrive\Documents\Programavimas\C# Json Skiraus\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\niuks\OneDrive\Documents\Programavimas\C# Json Skiraus\obj\Debug\net7.0\C# Json Skiraus.csproj.AssemblyReference.cache
+C:\Users\niuks\OneDrive\Documents\Programavimas\C# Json Skiraus\obj\Debug\net7.0\C# Json Skiraus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niuks\OneDrive\Documents\Programavimas\C# Json Skiraus\obj\Debug\net7.0\C# Json Skiraus.AssemblyInfoInputs.cache
+C:\Users\niuks\OneDrive\Documents\Programavimas\C# Json Skiraus\obj\Debug\net7.0\C# Json Skiraus.AssemblyInfo.cs
+C:\Users\niuks\OneDrive\Documents\Programavimas\C# Json Skiraus\obj\Debug\net7.0\C# Json Skiraus.csproj.CoreCompileInputs.cache
+C:\Users\niuks\OneDrive\Documents\Programavimas\C# Json Skiraus\obj\Debug\net7.0\C# Json Skiraus.csproj.CopyComplete
+C:\Users\niuks\OneDrive\Documents\Programavimas\C# Json Skiraus\obj\Debug\net7.0\C# Json Skiraus.dll
+C:\Users\niuks\OneDrive\Documents\Programavimas\C# Json Skiraus\obj\Debug\net7.0\refint\C# Json Skiraus.dll
+C:\Users\niuks\OneDrive\Documents\Programavimas\C# Json Skiraus\obj\Debug\net7.0\C# Json Skiraus.pdb
+C:\Users\niuks\OneDrive\Documents\Programavimas\C# Json Skiraus\obj\Debug\net7.0\C# Json Skiraus.genruntimeconfig.cache
+C:\Users\niuks\OneDrive\Documents\Programavimas\C# Json Skiraus\obj\Debug\net7.0\ref\C# Json Skiraus.dll
