@@ -17,10 +17,13 @@ class Program
 
         string jsonResponse = File.ReadAllText(filePath);
 
-        //User user = JsonConvert.DeserializeObject<User>(jsonResponse);
-
-       // Console.WriteLine($"Name: {user.Name}");
-       // Console.WriteLine($"Age: {user.Age}");
-       // Console.WriteLine($"City: {user.City}");
+        List<User> users = JsonConvert.DeserializeObject<List<User>>(jsonResponse);
+        foreach (User user in users)
+        {
+            Console.WriteLine($"Name: {user.Name}");
+            Console.WriteLine($"Age: {user.Age}");
+            Console.WriteLine($"City: {user.City}");
+        }
+        
     }
 }

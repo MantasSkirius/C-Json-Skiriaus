@@ -1,4 +1,4 @@
-{
+[
   {
     "Name": "John Doe",
     "Age": 30,
@@ -7,6 +7,6 @@
   {
     "Name": "Jane Doe",
     "Age": 14,
-    "City": "Okhlahoma"
+    "City": "Oklahoma"
   }
-}
+]
